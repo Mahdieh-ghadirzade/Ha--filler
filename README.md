@@ -16,7 +16,7 @@ of Medical Sciences.
 | File | Description |
 |---|---|
 | `ha_filler_pipeline.py` | Complete analysis as a single module. Reproduces every table and figure in the paper. |
-| `HA_filler_analysis.ipynb` | The same analysis as an annotated notebook, run step by step with explanatory text. |
+| `HA_Filler_analysis.ipynb` | The same analysis as an annotated notebook, run step by step with explanatory text. |
 | `requirements.txt` | Library versions. |
 | `results/tables/` | Aggregate results, including fold-level performance estimates for every classifier. |
 
