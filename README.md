@@ -3,7 +3,7 @@
 Analysis code for the manuscript *"Patient-Reported Satisfaction at Month 3, Not
 Objective Imaging, Predicts Month-6 Outcome after Nasolabial Hyaluronic Acid
 Filler: A Comparison of Machine-Learning and Single-Item Models"*, submitted to
-[JOURNAL NAME].
+DARU JOURNAL of Pharmaceutical Sciences.
 
 Ghadirzadeh M, Samadi A, Mohamadi F, Zahir-Jouzdani F.
 Center for Research and Training in Skin Diseases and Leprosy, Tehran University
