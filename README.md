@@ -1,9 +1,8 @@
 # Prediction of treatment failure after nasolabial hyaluronic acid filler
 
-Analysis code for the manuscript *"Patient-Reported Satisfaction at Month 3, Not
-Objective Imaging, Predicts Month-6 Outcome after Nasolabial Hyaluronic Acid
-Filler: A Comparison of Machine-Learning and Single-Item Models"*, submitted to
-DARU JOURNAL of Pharmaceutical Sciences.
+Analysis code for the manuscript *"Prediction of Non-Response to Hyaluronic Acid 
+Injections for Improvement of Nasolabial Folds Using Longitudinal Clinical Features
+and Machine Learning Models"*, under revision at **DARU Journal of Pharmaceutical Sciences**.
 
 Ghadirzadeh M, Samadi A, Mohamadi F, Zahir-Jouzdani F.
 Center for Research and Training in Skin Diseases and Leprosy, Tehran University
