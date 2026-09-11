@@ -1,0 +1,8 @@
+﻿reference (best),compared_with,AUC_difference,CI95_low,CI95_high,p_value,significant_0.05
+Extra Trees,Random Forest,0.1362,0.0497,0.2245,0.0,True
+Extra Trees,LightGBM,0.1564,0.0692,0.2529,0.001,True
+Extra Trees,XGBoost,0.1198,0.0132,0.2278,0.03,True
+Extra Trees,SVM (RBF),0.1274,0.0013,0.2521,0.047,True
+Extra Trees,Logistic Regression (L2),0.0537,-0.0195,0.1303,0.143,False
+Extra Trees,AdaBoost,0.0579,-0.0393,0.1531,0.237,False
+Extra Trees,Elastic-Net Logistic,0.0423,-0.0346,0.1262,0.298,False

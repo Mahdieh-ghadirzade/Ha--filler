@@ -1,0 +1,7 @@
+model,pooled_AUC,CI95_low,CI95_high
+Elastic-Net Logistic,0.78,0.701,0.853
+AdaBoost,0.74,0.661,0.817
+XGBoost,0.694,0.605,0.777
+Random Forest,0.705,0.624,0.785
+Logistic Regression (L2),0.666,0.577,0.76
+SVM (RBF),0.532,0.432,0.627

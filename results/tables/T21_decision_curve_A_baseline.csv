@@ -1,0 +1,181 @@
+﻿model,threshold,net_benefit
+Extra Trees,0.01,0.28525
+Extra Trees,0.02,0.27796
+Extra Trees,0.03,0.27051
+Extra Trees,0.04,0.26291
+Extra Trees,0.05,0.25577
+Extra Trees,0.06,0.24835
+Extra Trees,0.07,0.24046
+Extra Trees,0.08,0.2329
+Extra Trees,0.09,0.22473
+Extra Trees,0.1,0.21637
+Extra Trees,0.11,0.20928
+Extra Trees,0.12,0.189
+Extra Trees,0.13,0.17436
+Extra Trees,0.14,0.16633
+Extra Trees,0.15,0.15136
+Extra Trees,0.16,0.14202
+Extra Trees,0.17,0.13246
+Extra Trees,0.18,0.12266
+Extra Trees,0.19,0.114
+Extra Trees,0.2,0.10526
+Extra Trees,0.21,0.09801
+Extra Trees,0.22,0.08757
+Extra Trees,0.23,0.07861
+Extra Trees,0.24,0.07141
+Extra Trees,0.25,0.06043
+Extra Trees,0.26,0.05326
+Extra Trees,0.27,0.04037
+Extra Trees,0.28,0.03346
+Extra Trees,0.29,0.02669
+Extra Trees,0.3,0.0117
+Extra Trees,0.31,-0.00339
+Extra Trees,0.32,-0.01273
+Extra Trees,0.33,-0.03099
+Extra Trees,0.34,-0.04324
+Extra Trees,0.35,-0.04318
+Extra Trees,0.36,-0.05154
+Extra Trees,0.37,-0.05699
+Extra Trees,0.38,-0.06225
+Extra Trees,0.39,-0.06941
+Extra Trees,0.4,-0.08187
+Extra Trees,0.41,-0.09149
+Extra Trees,0.42,-0.11514
+Extra Trees,0.43,-0.10106
+Extra Trees,0.44,-0.11404
+Extra Trees,0.45,-0.12334
+Extra Trees,0.46,-0.13689
+Extra Trees,0.47,-0.13969
+Extra Trees,0.48,-0.1354
+Extra Trees,0.49,-0.15228
+Extra Trees,0.5,-0.1462
+Extra Trees,0.51,-0.15061
+Extra Trees,0.52,-0.15497
+Extra Trees,0.53,-0.1834
+Extra Trees,0.54,-0.16044
+Extra Trees,0.55,-0.13385
+Extra Trees,0.56,-0.1664
+Extra Trees,0.57,-0.14497
+Extra Trees,0.58,-0.12949
+Extra Trees,0.59,-0.12081
+Extra Trees,0.6,-0.11696
+Elastic-Net Logistic,0.01,0.28525
+Elastic-Net Logistic,0.02,0.27796
+Elastic-Net Logistic,0.03,0.27051
+Elastic-Net Logistic,0.04,0.26291
+Elastic-Net Logistic,0.05,0.25516
+Elastic-Net Logistic,0.06,0.2476
+Elastic-Net Logistic,0.07,0.23958
+Elastic-Net Logistic,0.08,0.23188
+Elastic-Net Logistic,0.09,0.22357
+Elastic-Net Logistic,0.1,0.21507
+Elastic-Net Logistic,0.11,0.20639
+Elastic-Net Logistic,0.12,0.19165
+Elastic-Net Logistic,0.13,0.17672
+Elastic-Net Logistic,0.14,0.16741
+Elastic-Net Logistic,0.15,0.15789
+Elastic-Net Logistic,0.16,0.14341
+Elastic-Net Logistic,0.17,0.13352
+Elastic-Net Logistic,0.18,0.11168
+Elastic-Net Logistic,0.19,0.10129
+Elastic-Net Logistic,0.2,0.09211
+Elastic-Net Logistic,0.21,0.08283
+Elastic-Net Logistic,0.22,0.07347
+Elastic-Net Logistic,0.23,0.05992
+Elastic-Net Logistic,0.24,0.04463
+Elastic-Net Logistic,0.25,0.03509
+Elastic-Net Logistic,0.26,0.01754
+Elastic-Net Logistic,0.27,0.00769
+Elastic-Net Logistic,0.28,-0.00227
+Elastic-Net Logistic,0.29,-0.00997
+Elastic-Net Logistic,0.3,-0.02005
+Elastic-Net Logistic,0.31,-0.02763
+Elastic-Net Logistic,0.32,-0.03509
+Elastic-Net Logistic,0.33,-0.04818
+Elastic-Net Logistic,0.34,-0.06149
+Elastic-Net Logistic,0.35,-0.06883
+Elastic-Net Logistic,0.36,-0.0826
+Elastic-Net Logistic,0.37,-0.09682
+Elastic-Net Logistic,0.38,-0.11734
+Elastic-Net Logistic,0.39,-0.13249
+Elastic-Net Logistic,0.4,-0.14815
+Elastic-Net Logistic,0.41,-0.15621
+Elastic-Net Logistic,0.42,-0.16415
+Elastic-Net Logistic,0.43,-0.18077
+Elastic-Net Logistic,0.44,-0.17502
+Elastic-Net Logistic,0.45,-0.19405
+Elastic-Net Logistic,0.46,-0.19558
+Elastic-Net Logistic,0.47,-0.19276
+Elastic-Net Logistic,0.48,-0.19703
+Elastic-Net Logistic,0.49,-0.20686
+Elastic-Net Logistic,0.5,-0.15789
+Elastic-Net Logistic,0.51,-0.13796
+Elastic-Net Logistic,0.52,-0.14669
+Elastic-Net Logistic,0.53,-0.16138
+Elastic-Net Logistic,0.54,-0.15739
+Elastic-Net Logistic,0.55,-0.1527
+Elastic-Net Logistic,0.56,-0.1547
+Elastic-Net Logistic,0.57,-0.13913
+Elastic-Net Logistic,0.58,-0.11835
+Elastic-Net Logistic,0.59,-0.11639
+Elastic-Net Logistic,0.6,-0.11988
+Logistic Regression (L2),0.01,0.28525
+Logistic Regression (L2),0.02,0.27796
+Logistic Regression (L2),0.03,0.27087
+Logistic Regression (L2),0.04,0.2634
+Logistic Regression (L2),0.05,0.24992
+Logistic Regression (L2),0.06,0.23628
+Logistic Regression (L2),0.07,0.22832
+Logistic Regression (L2),0.08,0.2207
+Logistic Regression (L2),0.09,0.20661
+Logistic Regression (L2),0.1,0.19298
+Logistic Regression (L2),0.11,0.18516
+Logistic Regression (L2),0.12,0.16481
+Logistic Regression (L2),0.13,0.15595
+Logistic Regression (L2),0.14,0.14783
+Logistic Regression (L2),0.15,0.13966
+Logistic Regression (L2),0.16,0.13144
+Logistic Regression (L2),0.17,0.12196
+Logistic Regression (L2),0.18,0.10769
+Logistic Regression (L2),0.19,0.09335
+Logistic Regression (L2),0.2,0.08333
+Logistic Regression (L2),0.21,0.07462
+Logistic Regression (L2),0.22,0.06748
+Logistic Regression (L2),0.23,0.06395
+Logistic Regression (L2),0.24,0.0554
+Logistic Regression (L2),0.25,0.04873
+Logistic Regression (L2),0.26,0.03635
+Logistic Regression (L2),0.27,0.02996
+Logistic Regression (L2),0.28,0.02144
+Logistic Regression (L2),0.29,0.01285
+Logistic Regression (L2),0.3,0.00334
+Logistic Regression (L2),0.31,-0.0078
+Logistic Regression (L2),0.32,-0.01651
+Logistic Regression (L2),0.33,-0.02819
+Logistic Regression (L2),0.34,-0.04023
+Logistic Regression (L2),0.35,-0.04948
+Logistic Regression (L2),0.36,-0.06469
+Logistic Regression (L2),0.37,-0.08001
+Logistic Regression (L2),0.38,-0.09187
+Logistic Regression (L2),0.39,-0.0998
+Logistic Regression (L2),0.4,-0.10916
+Logistic Regression (L2),0.41,-0.12043
+Logistic Regression (L2),0.42,-0.14902
+Logistic Regression (L2),0.43,-0.15984
+Logistic Regression (L2),0.44,-0.16458
+Logistic Regression (L2),0.45,-0.16906
+Logistic Regression (L2),0.46,-0.17327
+Logistic Regression (L2),0.47,-0.16683
+Logistic Regression (L2),0.48,-0.17139
+Logistic Regression (L2),0.49,-0.17968
+Logistic Regression (L2),0.5,-0.16959
+Logistic Regression (L2),0.51,-0.18785
+Logistic Regression (L2),0.52,-0.18567
+Logistic Regression (L2),0.53,-0.17606
+Logistic Regression (L2),0.54,-0.19069
+Logistic Regression (L2),0.55,-0.20728
+Logistic Regression (L2),0.56,-0.17384
+Logistic Regression (L2),0.57,-0.17408
+Logistic Regression (L2),0.58,-0.16764
+Logistic Regression (L2),0.59,-0.17458
+Logistic Regression (L2),0.6,-0.19006

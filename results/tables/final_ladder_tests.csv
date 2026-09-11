@@ -1,0 +1,5 @@
+comparison,delta_AUC,CI95_low,CI95_high,p_value
+full model vs Satisfaction at month 3 alone,-0.014,-0.041,0.014,0.346
+full model vs Satisfaction trajectory (week 2 + month 3),-0.02,-0.047,0.006,0.146
+full model vs Small clinical model (5 variables),-0.014,-0.064,0.035,0.546
+"full model vs Full predictor set, satisfaction removed",0.299,0.181,0.413,0.0

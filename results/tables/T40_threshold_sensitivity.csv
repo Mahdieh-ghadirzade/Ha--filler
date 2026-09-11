@@ -1,0 +1,19 @@
+﻿threshold,failure_rate,n_failures,scenario,model,AUC
+6.0,0.24,41,A_baseline,Logistic Regression (L2),0.56
+6.0,0.24,41,A_baseline,Random Forest,0.564
+6.0,0.24,41,A_baseline,XGBoost,0.535
+6.0,0.24,41,B_full,Logistic Regression (L2),0.672
+6.0,0.24,41,B_full,Random Forest,0.627
+6.0,0.24,41,B_full,XGBoost,0.595
+7.0,0.292,50,A_baseline,Logistic Regression (L2),0.486
+7.0,0.292,50,A_baseline,Random Forest,0.403
+7.0,0.292,50,A_baseline,XGBoost,0.42
+7.0,0.292,50,B_full,Logistic Regression (L2),0.657
+7.0,0.292,50,B_full,Random Forest,0.704
+7.0,0.292,50,B_full,XGBoost,0.7
+8.0,0.398,68,A_baseline,Logistic Regression (L2),0.631
+8.0,0.398,68,A_baseline,Random Forest,0.583
+8.0,0.398,68,A_baseline,XGBoost,0.597
+8.0,0.398,68,B_full,Logistic Regression (L2),0.731
+8.0,0.398,68,B_full,Random Forest,0.744
+8.0,0.398,68,B_full,XGBoost,0.733

@@ -1,0 +1,6 @@
+﻿predictor,AUC,CI95_low,CI95_high,p_value
+pain alone (univariable LR),0.591,0.499,0.685,
+thicknessV0 alone (univariable LR),0.465,0.372,0.557,
+Extra Trees (all 17 predictors),0.54,0.446,0.635,
+→ full model MINUS pain alone,-0.052,-0.17,0.074,0.434
+→ full model MINUS thicknessV0 alone,0.074,-0.049,0.207,0.258

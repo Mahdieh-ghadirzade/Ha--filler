@@ -1,0 +1,6 @@
+model,n_variables,AUC,CI95_low,CI95_high
+Satisfaction at month 3 alone,1,0.793,0.715,0.867
+Satisfaction trajectory (week 2 + month 3),2,0.8,0.727,0.867
+Small clinical model (5 variables),5,0.794,0.715,0.868
+"Full predictor set, satisfaction removed",35,0.481,0.39,0.579
+"Full model, penalised logistic (37 variables)",37,0.78,0.701,0.853

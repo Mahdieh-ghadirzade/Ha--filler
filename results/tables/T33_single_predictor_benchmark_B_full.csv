@@ -1,0 +1,10 @@
+﻿predictor,AUC,CI95_low,CI95_high,p_value
+satisfactionV3 alone (univariable LR),0.792,0.714,0.866,
+satisfactionV2 alone (univariable LR),0.659,0.569,0.747,
+pain alone (univariable LR),0.591,0.499,0.685,
+thicknessV0 alone (univariable LR),0.465,0.372,0.557,
+Elastic-Net Logistic (all 37 predictors),0.78,0.701,0.853,
+→ full model MINUS satisfactionV3 alone,-0.012,-0.039,0.016,0.416
+→ full model MINUS satisfactionV2 alone,0.121,0.023,0.217,0.012
+→ full model MINUS pain alone,0.189,0.078,0.299,0.002
+→ full model MINUS thicknessV0 alone,0.315,0.193,0.438,0.0

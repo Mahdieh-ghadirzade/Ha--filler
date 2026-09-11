@@ -1,0 +1,181 @@
+﻿model,threshold,net_benefit
+Elastic-Net Logistic,0.01,0.28525
+Elastic-Net Logistic,0.02,0.27796
+Elastic-Net Logistic,0.03,0.27051
+Elastic-Net Logistic,0.04,0.26291
+Elastic-Net Logistic,0.05,0.25516
+Elastic-Net Logistic,0.06,0.24723
+Elastic-Net Logistic,0.07,0.23914
+Elastic-Net Logistic,0.08,0.23087
+Elastic-Net Logistic,0.09,0.22242
+Elastic-Net Logistic,0.1,0.21378
+Elastic-Net Logistic,0.11,0.20494
+Elastic-Net Logistic,0.12,0.19591
+Elastic-Net Logistic,0.13,0.18666
+Elastic-Net Logistic,0.14,0.17721
+Elastic-Net Logistic,0.15,0.16753
+Elastic-Net Logistic,0.16,0.15762
+Elastic-Net Logistic,0.17,0.14747
+Elastic-Net Logistic,0.18,0.13707
+Elastic-Net Logistic,0.19,0.12642
+Elastic-Net Logistic,0.2,0.1155
+Elastic-Net Logistic,0.21,0.1043
+Elastic-Net Logistic,0.22,0.09282
+Elastic-Net Logistic,0.23,0.08104
+Elastic-Net Logistic,0.24,0.06894
+Elastic-Net Logistic,0.25,0.05653
+Elastic-Net Logistic,0.26,0.04378
+Elastic-Net Logistic,0.27,0.03068
+Elastic-Net Logistic,0.28,0.01722
+Elastic-Net Logistic,0.29,0.00338
+Elastic-Net Logistic,0.3,-0.00585
+Elastic-Net Logistic,0.31,-0.00975
+Elastic-Net Logistic,0.32,-0.02167
+Elastic-Net Logistic,0.33,-0.03317
+Elastic-Net Logistic,0.34,-0.04182
+Elastic-Net Logistic,0.35,-0.06253
+Elastic-Net Logistic,0.36,-0.07456
+Elastic-Net Logistic,0.37,-0.08679
+Elastic-Net Logistic,0.38,-0.08131
+Elastic-Net Logistic,0.39,-0.07823
+Elastic-Net Logistic,0.4,-0.06043
+Elastic-Net Logistic,0.41,-0.06829
+Elastic-Net Logistic,0.42,-0.08409
+Elastic-Net Logistic,0.43,-0.08095
+Elastic-Net Logistic,0.44,-0.05388
+Elastic-Net Logistic,0.45,-0.02499
+Elastic-Net Logistic,0.46,-0.02339
+Elastic-Net Logistic,0.47,-0.01501
+Elastic-Net Logistic,0.48,-0.01484
+Elastic-Net Logistic,0.49,0.02488
+Elastic-Net Logistic,0.5,0.00585
+Elastic-Net Logistic,0.51,0.06612
+Elastic-Net Logistic,0.52,0.05604
+Elastic-Net Logistic,0.53,0.04728
+Elastic-Net Logistic,0.54,0.02085
+Elastic-Net Logistic,0.55,0.03119
+Elastic-Net Logistic,0.56,0.01914
+Elastic-Net Logistic,0.57,0.01605
+Elastic-Net Logistic,0.58,0.01504
+Elastic-Net Logistic,0.59,0.02296
+Elastic-Net Logistic,0.6,0.03216
+AdaBoost,0.01,0.28525
+AdaBoost,0.02,0.27796
+AdaBoost,0.03,0.27051
+AdaBoost,0.04,0.26291
+AdaBoost,0.05,0.25516
+AdaBoost,0.06,0.24723
+AdaBoost,0.07,0.23914
+AdaBoost,0.08,0.23087
+AdaBoost,0.09,0.22242
+AdaBoost,0.1,0.21378
+AdaBoost,0.11,0.20494
+AdaBoost,0.12,0.22249
+AdaBoost,0.13,0.21691
+AdaBoost,0.14,0.21121
+AdaBoost,0.15,0.20537
+AdaBoost,0.16,0.17655
+AdaBoost,0.17,0.15994
+AdaBoost,0.18,0.14035
+AdaBoost,0.19,0.13811
+AdaBoost,0.2,0.13596
+AdaBoost,0.21,0.13236
+AdaBoost,0.22,0.12865
+AdaBoost,0.23,0.12486
+AdaBoost,0.24,0.11881
+AdaBoost,0.25,0.12671
+AdaBoost,0.26,0.12344
+AdaBoost,0.27,0.12505
+AdaBoost,0.28,0.12216
+AdaBoost,0.29,0.11918
+AdaBoost,0.3,0.11612
+AdaBoost,0.31,0.11298
+AdaBoost,0.32,0.10974
+AdaBoost,0.33,0.1064
+AdaBoost,0.34,0.10296
+AdaBoost,0.35,0.09942
+AdaBoost,0.36,0.09576
+AdaBoost,0.37,0.08029
+AdaBoost,0.38,0.0764
+AdaBoost,0.39,0.07238
+AdaBoost,0.4,0.05653
+AdaBoost,0.41,0.05224
+AdaBoost,0.42,0.04174
+AdaBoost,0.43,0.03909
+AdaBoost,0.44,0.03634
+AdaBoost,0.45,0.03349
+AdaBoost,0.46,0.03054
+AdaBoost,0.47,0.02747
+AdaBoost,0.48,0.02429
+AdaBoost,0.49,0.01468
+AdaBoost,0.5,0.0117
+AdaBoost,0.51,0.00859
+AdaBoost,0.52,0.00536
+AdaBoost,0.53,0.00199
+AdaBoost,0.54,-0.01704
+AdaBoost,0.55,-0.01819
+AdaBoost,0.56,-0.01223
+AdaBoost,0.57,-0.01346
+AdaBoost,0.58,0.0
+AdaBoost,0.59,0.0
+AdaBoost,0.6,0.0
+Extra Trees,0.01,0.28525
+Extra Trees,0.02,0.27796
+Extra Trees,0.03,0.27051
+Extra Trees,0.04,0.26291
+Extra Trees,0.05,0.25516
+Extra Trees,0.06,0.2476
+Extra Trees,0.07,0.24002
+Extra Trees,0.08,0.22654
+Extra Trees,0.09,0.2183
+Extra Trees,0.1,0.20988
+Extra Trees,0.11,0.20271
+Extra Trees,0.12,0.19564
+Extra Trees,0.13,0.18781
+Extra Trees,0.14,0.18183
+Extra Trees,0.15,0.18025
+Extra Trees,0.16,0.17405
+Extra Trees,0.17,0.16917
+Extra Trees,0.18,0.15747
+Extra Trees,0.19,0.14454
+Extra Trees,0.2,0.14181
+Extra Trees,0.21,0.14272
+Extra Trees,0.22,0.13045
+Extra Trees,0.23,0.13101
+Extra Trees,0.24,0.12281
+Extra Trees,0.25,0.11891
+Extra Trees,0.26,0.11933
+Extra Trees,0.27,0.12257
+Extra Trees,0.28,0.12443
+Extra Trees,0.29,0.11745
+Extra Trees,0.3,0.10693
+Extra Trees,0.31,0.1023
+Extra Trees,0.32,0.1032
+Extra Trees,0.33,0.08423
+Extra Trees,0.34,0.08028
+Extra Trees,0.35,0.07063
+Extra Trees,0.36,0.05848
+Extra Trees,0.37,0.05013
+Extra Trees,0.38,0.03169
+Extra Trees,0.39,0.03384
+Extra Trees,0.4,0.02534
+Extra Trees,0.41,0.02101
+Extra Trees,0.42,0.02138
+Extra Trees,0.43,0.01375
+Extra Trees,0.44,0.00627
+Extra Trees,0.45,0.01435
+Extra Trees,0.46,0.01256
+Extra Trees,0.47,0.00618
+Extra Trees,0.48,-0.00585
+Extra Trees,0.49,-0.01766
+Extra Trees,0.5,-0.0117
+Extra Trees,0.51,-0.0111
+Extra Trees,0.52,-0.01657
+Extra Trees,0.53,-0.01568
+Extra Trees,0.54,-0.02034
+Extra Trees,0.55,-0.0117
+Extra Trees,0.56,-0.01542
+Extra Trees,0.57,-0.01877
+Extra Trees,0.58,-0.02172
+Extra Trees,0.59,-0.02425
+Extra Trees,0.6,-0.02632

@@ -1,0 +1,9 @@
+﻿Classifier,A_baseline,B_full,difference (B - A)
+XGBoost,0.382,0.723,0.341
+Random Forest,0.388,0.707,0.319
+Elastic-Net Logistic,0.502,0.82,0.318
+LightGBM,0.38,0.693,0.313
+AdaBoost,0.462,0.755,0.293
+Logistic Regression (L2),0.487,0.692,0.205
+Extra Trees,0.57,0.737,0.167
+SVM (RBF),0.392,0.523,0.131
