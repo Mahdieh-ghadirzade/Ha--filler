@@ -1,4 +1,4 @@
-# Prediction of treatment failure after nasolabial hyaluronic acid filler
+# Prediction of non-response to hyaluronic acid injections for nasolabial Folds 
 
 Analysis code for the manuscript *"Prediction of Non-Response to Hyaluronic Acid 
 Injections for Improvement of Nasolabial Folds Using Longitudinal Clinical Features
