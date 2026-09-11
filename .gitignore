@@ -1,0 +1,13 @@
+# Patient data is never committed
+*.sav
+*.sav.*
+
+# Local outputs
+results/figures/
+results/*.xlsx
+results/*.json
+results/analysis_log.txt
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
